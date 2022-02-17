@@ -1,4 +1,4 @@
 # Welcome!
 
-We are FRC team 8745!
+We are FRC team 8745, the RoBeagles!
 ---
